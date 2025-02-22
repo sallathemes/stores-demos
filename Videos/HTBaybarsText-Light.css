@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'HTBaybarsText-Light.woff2';
+    src: url(HTBaybarsText-Light.woff2) format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'HTBaybarsText-Light.woff2', sans-serif;
+}
+  
